@@ -26,6 +26,13 @@ Create relevant insights not provided in the metric list/stakeholder meeting.
 
 <img width="1490" height="843" alt="image" src="https://github.com/user-attachments/assets/7135fc1a-eb53-47fc-835e-af7be1e4f7a8" />
 
+# Some Major Insights and Recomnedations to AtliQ Mart : 
+<img width="1491" height="842" alt="image" src="https://github.com/user-attachments/assets/cde1b183-2cf4-46d2-a0e8-c035c1c9a555" />
+
+Overall, AtliqMart should focus on enhancing operational efficiency, optimizing inventory management, and strengthening partnerships with suppliers to improve order fulfillment and customer satisfaction. 
+By addressing these areas, AtliqMart can drive better performance and achieve its business objectives.
+
+
 
 
 
